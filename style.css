@@ -1,0 +1,56 @@
+h2{
+    color: rgb(88, 68, 134);
+}
+w1{
+    color: #000000;
+}
+button{
+    color: brown;
+    background-color: #0ed952;
+    
+}
+body{
+    background-color: #775b5b;
+}
+
+html {
+    font-size: 10px;
+  }
+  
+  h1 {
+    font-size: 1rem;
+    text-transform: capitalize;
+    color: rgb(49, 87, 110);
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    
+    
+  }
+  h2{
+    text-transform: capitalize;
+    color: rgb(109, 3, 69);
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+    background-color: #000000;
+
+  }
+  
+  h1 + p {
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica, Arial, sans-serif;
+    /* border: 1px solid rgb(0, 0, 0); */
+    /* border-style:dotted; */
+  }
+  h3{
+    color: #000000;
+  }
+  h4{
+    color: #000000;
+    font-size: 14px;
+    font-style: Bold;
+  }
